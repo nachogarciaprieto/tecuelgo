@@ -20,6 +20,10 @@
 
   		 	<header>
 
-  		 		<img class="imagen-cabecera" src="img/header.png">
+          <div class="logo-cabecera">
+
+  		 		  <img class="imagen-cabecera" src="img/header_21.png">
+
+          </div>
 
   		  </header>

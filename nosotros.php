@@ -14,7 +14,7 @@ include("includes/menuPrincipal.php");
 include("includes/menuCategorias.php");
 ?>
 
-<section>
+<section class="linea-naranja-bottom">
 
 <br>
 <h1>SOBRE MI</h1>

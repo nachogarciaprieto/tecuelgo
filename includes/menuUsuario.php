@@ -1,5 +1,7 @@
 <aside>
 
+<div class="menu-derecha">
+
 <?php
 
 
@@ -44,5 +46,7 @@ if(isset($_SESSION["autenticado"])){
 	};
 
 ?>
+
+</div>
 
 </aside>

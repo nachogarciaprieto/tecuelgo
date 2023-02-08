@@ -15,27 +15,24 @@
 
 		<?php include("includes/menuMiCarrito.php"); ?>	
 
-		<p>EDITAR USUARIOS:  </p>
+		<p>GESTIONAR:</p>
 		<br>	
 		<p><button><a href='gestionarUsuarios.php'>USUARIOS</a></button></p>	
 		<br>
 
-		<p>ADMINISTRAR PEDIDOS:  </p>
 		<br>
 		<p><button><a href="gestionarPedidos.php">PEDIDOS</a></button></p>
 		<br>
 
-		<p>GESTIONAR ARTÍCULOS:  </p>
 		<br>
 		<p><button><a href="gestionarArticulos.php">ARTÍCULOS</a></button></p>
 		<br>
 
-		<p>GESTIONAR CATEGORÍAS:  </p>
 		<br>
 		<p><button><a href="gestionarCategorias.php">CATEGORÍAS</a></button></p>
 		<br>
 
-		<p>CERRAR SESIÓN: </p>
+		<br>
 		<br>
 		<p><button><a href="seguridad/cerrarSesion.php">CERRAR SESIÓN</a></button></p>
 		<br>

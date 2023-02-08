@@ -24,8 +24,6 @@ include("includes/menuCategorias.php");
 				
 		try{
 
-
-
 				global $resultado;	
 				global $total_articulos;
 
@@ -64,9 +62,7 @@ include("includes/menuCategorias.php");
 
 
 					//comprar();
-				
 
-				
 
 				while($fila=$resultado->fetch()){
 
@@ -111,23 +107,7 @@ include("includes/menuCategorias.php");
 	</div>	
 
 <br>	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-			
+		
 </section>		    
 
 <?php
